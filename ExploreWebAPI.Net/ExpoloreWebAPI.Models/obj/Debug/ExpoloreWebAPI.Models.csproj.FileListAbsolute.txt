@@ -1,0 +1,4 @@
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\ExpoloreWebAPI.Models\bin\Debug\ExpoloreWebAPI.Models.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\ExpoloreWebAPI.Models\bin\Debug\ExpoloreWebAPI.Models.pdb
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\ExpoloreWebAPI.Models\obj\Debug\ExpoloreWebAPI.Models.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\ExpoloreWebAPI.Models\obj\Debug\ExpoloreWebAPI.Models.pdb

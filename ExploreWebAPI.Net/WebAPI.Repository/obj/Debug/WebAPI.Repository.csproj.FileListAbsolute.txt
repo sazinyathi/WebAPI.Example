@@ -1,0 +1,17 @@
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\WebAPI.Repository.dll.config
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\WebAPI.Repository.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\WebAPI.Repository.pdb
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\EntityFramework.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\ExpoloreWebAPI.Models.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\ExpoloreWebAPI.Models.pdb
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\EntityFramework.xml
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\obj\Debug\WebAPI.Repository.csprojAssemblyReference.cache
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\obj\Debug\WebAPI.Repository.csproj.CopyComplete
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\obj\Debug\WebAPI.Repository.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\obj\Debug\WebAPI.Repository.pdb
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\obj\Debug\WebAPI.Repository.Migrations.Initialcreate.resources
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\obj\Debug\WebAPI.Repository.csproj.GenerateResource.cache
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\WebAPI.Interfaces.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Repository\bin\Debug\WebAPI.Interfaces.pdb

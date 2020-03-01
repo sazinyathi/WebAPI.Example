@@ -1,0 +1,8 @@
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Interfaces\bin\Debug\WebAPI.Interfaces.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Interfaces\bin\Debug\WebAPI.Interfaces.pdb
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Interfaces\bin\Debug\ExpoloreWebAPI.Models.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Interfaces\bin\Debug\ExpoloreWebAPI.Models.pdb
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Interfaces\obj\Debug\WebAPI.Interfaces.csprojAssemblyReference.cache
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Interfaces\obj\Debug\WebAPI.Interfaces.csproj.CopyComplete
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Interfaces\obj\Debug\WebAPI.Interfaces.dll
+C:\Users\nyathiss\Documents\GitHub\WebAPI.Example\ExploreWebAPI.Net\WebAPI.Interfaces\obj\Debug\WebAPI.Interfaces.pdb
