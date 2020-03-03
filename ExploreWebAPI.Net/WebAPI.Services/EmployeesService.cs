@@ -13,29 +13,29 @@ namespace WebAPI.Services
         {
             _employee = new EmployeeRepository();
         }
-        public void CreateEmployee(Employees employees)
+        public async Task CreateEmployee(Employees employees)
         {
-            _employee.CreateEmployee(employees);
+           await _employee.CreateEmployee(employees);
         }
 
-        public void DeleteEmployee(int employeeId)
+        public async Task DeleteEmployee(int employeeId)
         {
-            _employee.DeleteEmployee(employeeId);
+            await _employee.DeleteEmployee(employeeId);
         }
 
-        public void EditEmployee(int employeeId, Employees employees)
+        public async Task EditEmployee(int employeeId, Employees employees)
         {
-            _employee.EditEmployee(employeeId, employees);
+            await _employee.EditEmployee(employeeId, employees);
         }
 
-        public IEnumerable<Employees> GetAllEmployees()
+        public async Task<IEnumerable<Employees>> GetAllEmployees()
         {
-            return _employee.GetAllEmployees();
+            return await _employee.GetAllEmployees();
         }
 
-        public Employees GetEmployeeById(int employeeId)
+        public async Task<Employees> GetEmployeeById(int employeeId)
         {
-           return _employee.GetEmployeeById(employeeId);
+           return await _employee.GetEmployeeById(employeeId);
         }
     }
 }
