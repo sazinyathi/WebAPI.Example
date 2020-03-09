@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebAPI.Interfaces",
+    "\\WebAPI.Interfaces\\Properties",
+    "\\WebAPI.Interfaces\\Repositories",
+    "\\WebAPI.Interfaces\\Services"
   ],
-  "SelectedNode": "\\ExpoloreWebAPI.Models",
+  "SelectedNode": "\\ExploreWebAPI.Net",
   "PreviewInSolutionExplorer": false
 }

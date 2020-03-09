@@ -1,0 +1,5 @@
+C:\Users\nyathiss\source\repos\WebAPI.Example\Models\bin\Debug\Models.dll
+C:\Users\nyathiss\source\repos\WebAPI.Example\Models\bin\Debug\Models.pdb
+C:\Users\nyathiss\source\repos\WebAPI.Example\Models\obj\Debug\Models.dll
+C:\Users\nyathiss\source\repos\WebAPI.Example\Models\obj\Debug\Models.pdb
+C:\Users\nyathiss\source\repos\WebAPI.Example\Models\obj\Debug\WebAPI.Models.csprojAssemblyReference.cache

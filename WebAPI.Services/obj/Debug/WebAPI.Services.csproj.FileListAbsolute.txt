@@ -1,0 +1,15 @@
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\WebAPI.Services.dll
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\WebAPI.Services.pdb
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\obj\Debug\WebAPI.Services.dll
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\obj\Debug\WebAPI.Services.pdb
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\Models.dll
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\WebAPI.Interfaces.dll
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\WebAPI.Repositories.dll
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\EntityFramework.dll
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\Models.pdb
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\WebAPI.Interfaces.pdb
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\WebAPI.Repositories.pdb
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\WebAPI.Repositories.dll.config
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\bin\Debug\EntityFramework.xml
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\obj\Debug\WebAPI.Services.csprojAssemblyReference.cache
+C:\Users\nyathiss\source\repos\WebAPI.Example\WebAPI.Services\obj\Debug\WebAPI.Services.csproj.CopyComplete
